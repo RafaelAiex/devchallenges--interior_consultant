@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&family=Lora:wght@500&family=Montserrat:wght@400;700&display=swap');
+
+body {
+    background: #181719;
+}
+
+h4 {
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 6px;
+    position: absolute;
+    width: 86px;
+    height: 16px;
+    top: 50px;
+    left: 85px;
+    color: #fff;
+    border: solid 1px;
+    box-sizing: border-box;
+    width: 102px;
+    height: 32px;
+}
+
+h1 {
+    font-family: 'lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 61.44px;
+    position: absolute;
+    top: 381px;
+    left: 77px;
+    color: #fff;
+}
+
+p {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.26px;
+    width: 410px;
+    height: 145px;
+    top: 482px;
+    left: 77px;
+    color: #fff;
+}
+
+h2 {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21.94px;
+    width: 126px;
+    height: 22px;
+    top: 675px;
+    left: 77px;
+    color: #fff;
+}
+
+
+#menu ul {
+    position: absolute;
+    max-width: 706px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 537;
+    list-style: none;
+    padding: 46px;
+    left: 680px;
+}
+
+#menu ul li {
+    display: inline;
+    margin-right: 86px;
+    font-size: 22px;
+}
+
+#menu ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    text-decoration: underline;
+}
+
+#img {
+    position: absolute;
+    width: 737px;
+    height: 555px;
+    top: 245px;
+    left: 626px;
+}
+
+#card {
+    position: absolute;
+    width: 410px;
+    height: 189px;
+    background: #181719;
+    top: 722px;
+    left: 921px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#profile {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    top: 18px;
+    left: 31px;
+}
+
+#award {
+    position: relative;
+    font-family: 'Lora';
+    font-style: normal;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    color: #fff;
+    width: 287px;
+    height: 62px;
+    top: 0px;
+    left: 26px;
+}
+
+#graduation {
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    width: 102px;
+    height: 15px;
+    color: #828282;
+    top: -130px;
+    left: 100px;
+}
+
+#name {
+    position: relative;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    color: #fff;
+    width: 95px;
+    height: 17px;
+    top: -42px;
+    left: 100px;
+}
+
+footer {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #a9a9a9;
+    top: 1039px;
+    left: 577px;
+}
